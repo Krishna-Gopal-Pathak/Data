@@ -32,5 +32,5 @@ curl -v https://example.com
 
 This will provide detailed information, including SSL/TLS details and the headers.
 
-![Image Description](WAF-Detection/images/Screenshot_1.png)
+![Image Description](images/Screenshot_1.png)
 
