@@ -34,5 +34,5 @@ This will provide detailed information, including SSL/TLS details and the header
 
 ![Image Description](images/Screenshot_1.png)
 
-![image](https://github.com/user-attachments/assets/3a17669f-3339-48ab-8506-0f6f9b9e1447)
+
 
